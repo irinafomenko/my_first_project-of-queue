@@ -1,0 +1,3 @@
+C:/Users/ifomenko/CLionProjects/spisok_2/cmake-build-debug/CMakeFiles/spisok_2.dir
+C:/Users/ifomenko/CLionProjects/spisok_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ifomenko/CLionProjects/spisok_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

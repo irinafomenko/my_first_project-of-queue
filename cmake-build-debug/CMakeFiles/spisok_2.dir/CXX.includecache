@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ifomenko/CLionProjects/spisok_2/Logger.h
+iostream
+-
+fstream
+-
+chrono
+-
+ctime
+-
+
+C:/Users/ifomenko/CLionProjects/spisok_2/Structure.h
+iostream
+-
+my_exceptions.h
+C:/Users/ifomenko/CLionProjects/spisok_2/my_exceptions.h
+
+C:/Users/ifomenko/CLionProjects/spisok_2/main.cpp
+iostream
+-
+newqueue.h
+C:/Users/ifomenko/CLionProjects/spisok_2/newqueue.h
+myqueue.h
+C:/Users/ifomenko/CLionProjects/spisok_2/myqueue.h
+Logger.h
+C:/Users/ifomenko/CLionProjects/spisok_2/Logger.h
+Structure.h
+C:/Users/ifomenko/CLionProjects/spisok_2/Structure.h
+
+C:/Users/ifomenko/CLionProjects/spisok_2/my_exceptions.h
+exception
+-
+
+C:/Users/ifomenko/CLionProjects/spisok_2/myqueue.h
+
+C:/Users/ifomenko/CLionProjects/spisok_2/newqueue.h
+
